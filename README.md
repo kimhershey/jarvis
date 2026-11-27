@@ -1,2 +1,2 @@
-# jarvis
+# friday
 ai surporter harnes
